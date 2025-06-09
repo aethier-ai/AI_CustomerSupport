@@ -1,0 +1,6 @@
+ticket_text,urgency,suggested_action
+"I want to cancel my order.",2,"Send cancellation confirmation"
+"The item never arrived.",5,"Escalate to logistics"
+"My product is broken.",4,"Request product photo"
+"I need a refund for a returned item.",3,"Send refund form"
+"The tracking number doesn't work.",3,"Send tracking info"
